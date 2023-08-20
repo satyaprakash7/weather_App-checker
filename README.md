@@ -1,10 +1,9 @@
-# Weather_webApp
-
-## I used open weather API to fetch data
+## I used open weather 
 
 ### This web project done in html,css ,js
 
 #### LIVE link
+https://satya-weather-app-checker.vercel.app/
 
 ### Enter Your City Name and Press Enter Button.
 
